@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install cahoon_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+CahoonViewTool::Renderer.copyright 'Jacob Cahoon', 'All rights reserved'
+```
 
 ## Development
 
